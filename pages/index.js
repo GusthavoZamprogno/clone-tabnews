@@ -26,9 +26,9 @@ export default function Home() {
 
       {/* Texto com Parallax 3D */}
       <div className="content">
-        <h1 className="title" ref={parallaxRef}>Bem-vindo ao Futuro</h1>
+        <h1 className="title" ref={parallaxRef}>Se você me ama da uma risadinha</h1>
         <p className="subtitle">
-          Interfaces vivas, animações líquidas e tecnologia em cada pixel.
+          Você é muito especial para mim 
         </p>
       </div>
 
