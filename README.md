@@ -1,2 +1,3 @@
 # clone-tabnews
- Repositório destinado a aprendizado. 
+
+Repositório destinado a aprendizado.
